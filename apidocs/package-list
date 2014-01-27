@@ -8,6 +8,6 @@ org.jconverter.converter.catalog.iterable
 org.jconverter.converter.catalog.iterator
 org.jconverter.converter.catalog.map
 org.jconverter.converter.catalog.number
+org.jconverter.converter.catalog.object
 org.jconverter.converter.catalog.string
-org.jconverter.instantiation
-org.jconverter.typesolver
+org.jconverter.factory
