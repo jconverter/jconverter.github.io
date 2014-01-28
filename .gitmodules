@@ -1,9 +1,9 @@
-[submodule "tutorial/js/ace-builds"]
-	path = tutorial/js/ace-builds
+[submodule "js/ace-builds"]
+	path = js/ace-builds
 	url = https://github.com/ajaxorg/ace-builds.git
-[submodule "tutorial/js/publication"]
-	path = tutorial/js/publication
+[submodule "js/publication"]
+	path = js/publication
 	url = https://github.com/sergio-castro/js-publication.git
-[submodule "tutorial/styles/publication"]
-	path = tutorial/styles/publication
+[submodule "styles/publication"]
+	path = styles/publication
 	url = https://github.com/sergio-castro/css-publication.git
